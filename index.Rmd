@@ -358,7 +358,7 @@ class: center, middle, inverse
 ### .red[**Kofaktor**] ke- $(i,j)$ yaitu $C_{ij}$ adalah elemen dari matriks Kofaktor $\textbf{C}$ di mana
 
 .pull.center[
-### $C_{ij}=(-1)^{i+j}M_{ij}=(-1)^{i+j}\text{det}(\textbf{A}_ij)$
+### $C_{ij}=(-1)^{i+j}M_{ij}=(-1)^{i+j}\text{det}(\textbf{A}_{ij})$
 ]
 
 ---
